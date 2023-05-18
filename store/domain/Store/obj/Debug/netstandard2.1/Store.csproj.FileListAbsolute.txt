@@ -1,0 +1,10 @@
+C:\Users\Kirillzykoyski\source\repos\store\domain\Store\bin\Debug\netstandard2.1\Store.deps.json
+C:\Users\Kirillzykoyski\source\repos\store\domain\Store\bin\Debug\netstandard2.1\Store.dll
+C:\Users\Kirillzykoyski\source\repos\store\domain\Store\bin\Debug\netstandard2.1\Store.pdb
+C:\Users\Kirillzykoyski\source\repos\store\domain\Store\obj\Debug\netstandard2.1\Store.csproj.AssemblyReference.cache
+C:\Users\Kirillzykoyski\source\repos\store\domain\Store\obj\Debug\netstandard2.1\Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kirillzykoyski\source\repos\store\domain\Store\obj\Debug\netstandard2.1\Store.AssemblyInfoInputs.cache
+C:\Users\Kirillzykoyski\source\repos\store\domain\Store\obj\Debug\netstandard2.1\Store.AssemblyInfo.cs
+C:\Users\Kirillzykoyski\source\repos\store\domain\Store\obj\Debug\netstandard2.1\Store.csproj.CoreCompileInputs.cache
+C:\Users\Kirillzykoyski\source\repos\store\domain\Store\obj\Debug\netstandard2.1\Store.dll
+C:\Users\Kirillzykoyski\source\repos\store\domain\Store\obj\Debug\netstandard2.1\Store.pdb

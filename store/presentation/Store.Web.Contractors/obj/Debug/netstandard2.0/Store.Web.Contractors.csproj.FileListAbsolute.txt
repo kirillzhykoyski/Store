@@ -1,0 +1,10 @@
+C:\Users\Kirillzykoyski\source\repos\store\presentation\Store.Web.Contractors\bin\Debug\netstandard2.0\Store.Web.Contractors.deps.json
+C:\Users\Kirillzykoyski\source\repos\store\presentation\Store.Web.Contractors\bin\Debug\netstandard2.0\Store.Web.Contractors.dll
+C:\Users\Kirillzykoyski\source\repos\store\presentation\Store.Web.Contractors\bin\Debug\netstandard2.0\Store.Web.Contractors.pdb
+C:\Users\Kirillzykoyski\source\repos\store\presentation\Store.Web.Contractors\obj\Debug\netstandard2.0\Store.Web.Contractors.csproj.AssemblyReference.cache
+C:\Users\Kirillzykoyski\source\repos\store\presentation\Store.Web.Contractors\obj\Debug\netstandard2.0\Store.Web.Contractors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kirillzykoyski\source\repos\store\presentation\Store.Web.Contractors\obj\Debug\netstandard2.0\Store.Web.Contractors.AssemblyInfoInputs.cache
+C:\Users\Kirillzykoyski\source\repos\store\presentation\Store.Web.Contractors\obj\Debug\netstandard2.0\Store.Web.Contractors.AssemblyInfo.cs
+C:\Users\Kirillzykoyski\source\repos\store\presentation\Store.Web.Contractors\obj\Debug\netstandard2.0\Store.Web.Contractors.csproj.CoreCompileInputs.cache
+C:\Users\Kirillzykoyski\source\repos\store\presentation\Store.Web.Contractors\obj\Debug\netstandard2.0\Store.Web.Contractors.dll
+C:\Users\Kirillzykoyski\source\repos\store\presentation\Store.Web.Contractors\obj\Debug\netstandard2.0\Store.Web.Contractors.pdb

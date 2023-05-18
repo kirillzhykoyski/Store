@@ -1,0 +1,13 @@
+C:\Users\Kirillzykoyski\source\repos\store\application\Store.Web.App\bin\Debug\netstandard2.1\Store.Web.App.deps.json
+C:\Users\Kirillzykoyski\source\repos\store\application\Store.Web.App\bin\Debug\netstandard2.1\Store.Web.App.dll
+C:\Users\Kirillzykoyski\source\repos\store\application\Store.Web.App\bin\Debug\netstandard2.1\Store.Web.App.pdb
+C:\Users\Kirillzykoyski\source\repos\store\application\Store.Web.App\bin\Debug\netstandard2.1\Store.dll
+C:\Users\Kirillzykoyski\source\repos\store\application\Store.Web.App\bin\Debug\netstandard2.1\Store.pdb
+C:\Users\Kirillzykoyski\source\repos\store\application\Store.Web.App\obj\Debug\netstandard2.1\Store.Web.App.csproj.AssemblyReference.cache
+C:\Users\Kirillzykoyski\source\repos\store\application\Store.Web.App\obj\Debug\netstandard2.1\Store.Web.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kirillzykoyski\source\repos\store\application\Store.Web.App\obj\Debug\netstandard2.1\Store.Web.App.AssemblyInfoInputs.cache
+C:\Users\Kirillzykoyski\source\repos\store\application\Store.Web.App\obj\Debug\netstandard2.1\Store.Web.App.AssemblyInfo.cs
+C:\Users\Kirillzykoyski\source\repos\store\application\Store.Web.App\obj\Debug\netstandard2.1\Store.Web.App.csproj.CoreCompileInputs.cache
+C:\Users\Kirillzykoyski\source\repos\store\application\Store.Web.App\obj\Debug\netstandard2.1\Store.Web.App.csproj.CopyComplete
+C:\Users\Kirillzykoyski\source\repos\store\application\Store.Web.App\obj\Debug\netstandard2.1\Store.Web.App.dll
+C:\Users\Kirillzykoyski\source\repos\store\application\Store.Web.App\obj\Debug\netstandard2.1\Store.Web.App.pdb

@@ -1,0 +1,13 @@
+C:\Users\Kirillzykoyski\source\repos\store\infrastructure\Store.Data.EF\bin\Debug\netstandard2.1\Store.Data.EF.deps.json
+C:\Users\Kirillzykoyski\source\repos\store\infrastructure\Store.Data.EF\bin\Debug\netstandard2.1\Store.Data.EF.dll
+C:\Users\Kirillzykoyski\source\repos\store\infrastructure\Store.Data.EF\bin\Debug\netstandard2.1\Store.Data.EF.pdb
+C:\Users\Kirillzykoyski\source\repos\store\infrastructure\Store.Data.EF\bin\Debug\netstandard2.1\Store.dll
+C:\Users\Kirillzykoyski\source\repos\store\infrastructure\Store.Data.EF\bin\Debug\netstandard2.1\Store.pdb
+C:\Users\Kirillzykoyski\source\repos\store\infrastructure\Store.Data.EF\obj\Debug\netstandard2.1\Store.Data.EF.csproj.AssemblyReference.cache
+C:\Users\Kirillzykoyski\source\repos\store\infrastructure\Store.Data.EF\obj\Debug\netstandard2.1\Store.Data.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kirillzykoyski\source\repos\store\infrastructure\Store.Data.EF\obj\Debug\netstandard2.1\Store.Data.EF.AssemblyInfoInputs.cache
+C:\Users\Kirillzykoyski\source\repos\store\infrastructure\Store.Data.EF\obj\Debug\netstandard2.1\Store.Data.EF.AssemblyInfo.cs
+C:\Users\Kirillzykoyski\source\repos\store\infrastructure\Store.Data.EF\obj\Debug\netstandard2.1\Store.Data.EF.csproj.CoreCompileInputs.cache
+C:\Users\Kirillzykoyski\source\repos\store\infrastructure\Store.Data.EF\obj\Debug\netstandard2.1\Store.Data.EF.csproj.CopyComplete
+C:\Users\Kirillzykoyski\source\repos\store\infrastructure\Store.Data.EF\obj\Debug\netstandard2.1\Store.Data.EF.dll
+C:\Users\Kirillzykoyski\source\repos\store\infrastructure\Store.Data.EF\obj\Debug\netstandard2.1\Store.Data.EF.pdb

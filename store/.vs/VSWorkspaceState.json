@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\infrastructure",
+    "\\infrastructure\\Store.Data.EF",
+    "\\infrastructure\\Store.Data.EF\\bin",
+    "\\infrastructure\\Store.Data.EF\\bin\\Debug",
+    "\\infrastructure\\Store.Data.EF\\bin\\Debug\\netstandard2.1",
+    "\\infrastructure\\Store.Data.EF\\bin\\Release",
+    "\\infrastructure\\Store.Data.EF\\bin\\Release\\netstandard2.1",
+    "\\infrastructure\\Store.Data.EF\\Migrations",
+    "\\presentation",
+    "\\presentation\\Store.Web"
+  ],
+  "SelectedNode": "\\store.sln",
+  "PreviewInSolutionExplorer": false
+}
